@@ -16,13 +16,6 @@
     <div id="lat"></div>
     <div id="lon"></div>
     
-    <?php
-
-        // $data = file_get_contents('https://api.openweathermap.org/data/2.5/weather?lat=35&lon=139&appid=7a0b654c530be664fd77cf116ebd6626');
-        // echo $data;
-
-    ?>
-
     <script src="js/weather.js"></script>
     
 </body>
